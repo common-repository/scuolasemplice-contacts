@@ -1,0 +1,415 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: scuolasemplcecontacts\n"
+"POT-Creation-Date: 2020-02-15 00:12+0530\n"
+"PO-Revision-Date: 2020-02-15 00:13+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: it\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.3\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: _;__;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: ScuolasemplceContacts_LifeCycle.php:162
+#: ScuolasemplceContacts_LifeCycle.php:175
+msgid "Forms"
+msgstr "Forms"
+
+#: ScuolasemplceContacts_LifeCycle.php:188
+msgid "Enquiry"
+msgstr "Richieste"
+
+#: ScuolasemplceContacts_LifeCycle.php:201
+#: ScuolasemplceContacts_OptionsManager.php:931
+msgid "Api Fields"
+msgstr "Elenco campi"
+
+#: ScuolasemplceContacts_LifeCycle.php:214
+#: ScuolasemplceContacts_OptionsManager.php:523
+#: ScuolasemplceContacts_OptionsManager.php:735
+msgid "Settings"
+msgstr "Settaggi"
+
+#: ScuolasemplceContacts_OptionsManager.php:320
+msgid "Please Enter Form name"
+msgstr "Per favore inserire il nome del modulo"
+
+#: ScuolasemplceContacts_OptionsManager.php:321
+msgid "Please Include All required fields marked with *"
+msgstr "Per favore inserire nel modulo tutti i campi richiesti marchiati con *"
+
+#: ScuolasemplceContacts_OptionsManager.php:322
+msgid "Please Enter Thanks Message"
+msgstr "Inserisci un messaggio di ringraziamento"
+
+#: ScuolasemplceContacts_OptionsManager.php:323
+msgid "Please Enter Thanks Url"
+msgstr "Inserisci URL di ringraziamento"
+
+#: ScuolasemplceContacts_OptionsManager.php:324
+msgid "Please Enter Terms & Conditions Label"
+msgstr "Inserire la dicitura per i Termini & Condizioni"
+
+#: ScuolasemplceContacts_OptionsManager.php:325
+msgid "Please Enter Terms & Conditions url"
+msgstr "Inserire l’indirizzo URL per i Termini & Condizioni"
+
+#: ScuolasemplceContacts_OptionsManager.php:326
+msgid "Label"
+msgstr "Etichetta"
+
+#: ScuolasemplceContacts_OptionsManager.php:327
+msgid "Layout"
+msgstr "Formato"
+
+#: ScuolasemplceContacts_OptionsManager.php:328
+msgid "Remove"
+msgstr "Rimuovi"
+
+#: ScuolasemplceContacts_OptionsManager.php:329
+msgid "Show Options"
+msgstr "Mostra opzioni"
+
+#: ScuolasemplceContacts_OptionsManager.php:330
+msgid "Confirm Password"
+msgstr "Conferma Password"
+
+#: ScuolasemplceContacts_OptionsManager.php:331
+#: ScuolasemplceContacts_Plugin.php:21
+msgid "Password"
+msgstr "Password"
+
+#: ScuolasemplceContacts_OptionsManager.php:332
+msgid "Required"
+msgstr "Richiesto"
+
+#: ScuolasemplceContacts_OptionsManager.php:372
+#: ScuolasemplceContacts_OptionsManager.php:410
+msgid "Do you want to delete?"
+msgstr "Si comferma l'eliminazione?"
+
+#: ScuolasemplceContacts_OptionsManager.php:502
+#: ScuolasemplceContacts_OptionsManager.php:919
+msgid "You do not have sufficient permissions to access this page."
+msgstr "Non hai sufficienti diritti per accedere a questa pagina."
+
+#: ScuolasemplceContacts_OptionsManager.php:611
+msgid "true"
+msgstr "si/vero"
+
+#: ScuolasemplceContacts_OptionsManager.php:613
+msgid "false"
+msgstr "no/falso"
+
+#: ScuolasemplceContacts_OptionsManager.php:615
+msgid "Administrator"
+msgstr "Amministratore"
+
+#: ScuolasemplceContacts_OptionsManager.php:617
+msgid "Editor"
+msgstr "Editor"
+
+#: ScuolasemplceContacts_OptionsManager.php:619
+msgid "Author"
+msgstr "Autore"
+
+#: ScuolasemplceContacts_OptionsManager.php:621
+msgid "Contributor"
+msgstr "Contriibutor"
+
+#: ScuolasemplceContacts_OptionsManager.php:623
+msgid "Subscriber"
+msgstr "Subscriber"
+
+#: ScuolasemplceContacts_OptionsManager.php:625
+msgid "Anyone"
+msgstr "Chiunque"
+
+#: ScuolasemplceContacts_OptionsManager.php:709
+msgid "Form Builder"
+msgstr "Generatore di moduli"
+
+#: ScuolasemplceContacts_OptionsManager.php:720
+#: ScuolasemplceContacts_OptionsManager.php:1062
+#: ScuolasemplceContacts_OptionsManager.php:1102
+msgid "Form Name"
+msgstr "Nome modulo"
+
+#: ScuolasemplceContacts_OptionsManager.php:723
+msgid "Update Form"
+msgstr "Aggiorna modulo"
+
+#: ScuolasemplceContacts_OptionsManager.php:723
+msgid "Save Form"
+msgstr "Salva modulo"
+
+#: ScuolasemplceContacts_OptionsManager.php:730
+msgid "Back To Form List"
+msgstr "Torna alla lista"
+
+#: ScuolasemplceContacts_OptionsManager.php:740
+msgid "Kind of contact"
+msgstr "Tipo di contatto"
+
+#: ScuolasemplceContacts_OptionsManager.php:740
+msgid "Students"
+msgstr "Studente"
+
+#: ScuolasemplceContacts_OptionsManager.php:742
+msgid "Leads"
+msgstr "Lead/contatto"
+
+#: ScuolasemplceContacts_OptionsManager.php:749
+msgid "After Post"
+msgstr "Dopo la compilazione"
+
+#: ScuolasemplceContacts_OptionsManager.php:749
+msgid "Redirect to a thank you page"
+msgstr "Redirigi ad una pagina di ringraziamento"
+
+#: ScuolasemplceContacts_OptionsManager.php:751
+msgid "Give a success message"
+msgstr "Restituisci un messaggio di successo"
+
+#: ScuolasemplceContacts_OptionsManager.php:756
+msgid "Thanks Url"
+msgstr "Indirizzo (URL) della pagina di ringraziamento"
+
+#: ScuolasemplceContacts_OptionsManager.php:759
+msgid "Thanks Message"
+msgstr "Messaggio di ringraziamento"
+
+#: ScuolasemplceContacts_OptionsManager.php:768
+msgid ""
+"Allowed IP (comma Seperated, leave empty if don't want to apply IP "
+"restriction.)"
+msgstr ""
+"Elenco IP consentii (elenco separato da virgola - anche dns dinamici per "
+"connessioni ad IP variabile, lasciare vuoto per non applicare restrizioni)"
+
+#: ScuolasemplceContacts_OptionsManager.php:774
+msgid "Term & Conditions"
+msgstr "Termini & Condizioni"
+
+#: ScuolasemplceContacts_OptionsManager.php:774
+msgid "Show CheckBox"
+msgstr "Mostra checkbox"
+
+#: ScuolasemplceContacts_OptionsManager.php:776
+msgid "Don't Show CheckBox"
+msgstr "Non mostrare checkbox"
+
+#: ScuolasemplceContacts_OptionsManager.php:781
+msgid "Term & Conditions label"
+msgstr "Etichetta dei Termini & Condizioni"
+
+#: ScuolasemplceContacts_OptionsManager.php:783
+msgid "Term & Conditions url (with http://)"
+msgstr "Indirizzo dei Termini & Condizioni (con http(s)://)"
+
+#: ScuolasemplceContacts_OptionsManager.php:789
+msgid "Create a wordpress user when sumbit information"
+msgstr "Crea un utente wordpress quando vengono inviate le informazioni"
+
+#: ScuolasemplceContacts_OptionsManager.php:794
+msgid "Create a ScuolaSemplice user when sumbit information"
+msgstr "Crea un account ScuolaSemplice quando vengono inviate le informazioni"
+
+#: ScuolasemplceContacts_OptionsManager.php:799
+msgid "Send SMS to the user to invite connecting to the App"
+msgstr "Invia un SMS all’utente per invitarlo a connettersi all’App"
+
+#: ScuolasemplceContacts_OptionsManager.php:804
+msgid "App SMS connection disclaimer"
+msgstr "Messaggio informativo su SMS di connessione App"
+
+#: ScuolasemplceContacts_OptionsManager.php:804
+msgid ""
+"By entering your mobile number, you will immediately receive an SMS inviting "
+"you to install the ScuolaSemplice App. Stay in sync at your school!"
+msgstr ""
+"Inserendo il tuo numero di cellulare, riceverai immediatamente un SMS che ti "
+"inviterà ad installare l’App di ScuolaSemplice. Rimani sincronizzato con la "
+"tua scuola!"
+
+#: ScuolasemplceContacts_OptionsManager.php:809
+msgid "Custom js code"
+msgstr "Codice js personalizzato"
+
+#: ScuolasemplceContacts_OptionsManager.php:812
+msgid "should return true or false"
+msgstr "deve ritornare true o false"
+
+#: ScuolasemplceContacts_OptionsManager.php:822
+msgid "Available Field"
+msgstr "Campi disponibili"
+
+#: ScuolasemplceContacts_OptionsManager.php:823
+msgid "Drag the fields to the included tables or click on + to add to the form"
+msgstr ""
+"Trascina i campi nella lista dei campi inclusi (o clicca sul +) per "
+"inserirli nel modulo"
+
+#: ScuolasemplceContacts_OptionsManager.php:884
+msgid "Included Field"
+msgstr "Campi inclusi"
+
+#: ScuolasemplceContacts_OptionsManager.php:887
+msgid "Drag the fields up or down to arrange."
+msgstr "Trascina i campi in alto o in basso per ordinarli."
+
+#: ScuolasemplceContacts_OptionsManager.php:897
+msgid "Preview"
+msgstr "Anteprima"
+
+#: ScuolasemplceContacts_OptionsManager.php:937
+msgid "Fetch Now"
+msgstr "Aggiorna ora"
+
+#: ScuolasemplceContacts_OptionsManager.php:945
+msgid "No Data found!!! Fetch Now."
+msgstr "Nessun dato trovato!! Aggiorna ora."
+
+#: ScuolasemplceContacts_OptionsManager.php:955
+msgid "Last Fetched"
+msgstr "Ultimo aggiornamento"
+
+#: ScuolasemplceContacts_OptionsManager.php:960
+msgid "Standard fields"
+msgstr "Campi standard"
+
+#: ScuolasemplceContacts_OptionsManager.php:961
+msgid "Custom fields"
+msgstr "Campi personalizzati"
+
+#: ScuolasemplceContacts_OptionsManager.php:1057
+msgid "API Forms"
+msgstr "Moduli"
+
+#: ScuolasemplceContacts_OptionsManager.php:1057
+msgid "Create New Form"
+msgstr "Crea un nuovo modulo"
+
+#: ScuolasemplceContacts_OptionsManager.php:1063
+msgid "Short code"
+msgstr "Short code"
+
+#: ScuolasemplceContacts_OptionsManager.php:1064
+msgid "Form Creation Date"
+msgstr "Data creazione modulo"
+
+#: ScuolasemplceContacts_OptionsManager.php:1065
+#: ScuolasemplceContacts_OptionsManager.php:1105
+msgid "Action"
+msgstr "Azione"
+
+#: ScuolasemplceContacts_OptionsManager.php:1087
+msgid "Form enquiry"
+msgstr "Richieste"
+
+#: ScuolasemplceContacts_OptionsManager.php:1089
+msgid "Form enquiry for"
+msgstr "Filtro per modulo di richiesta"
+
+#: ScuolasemplceContacts_OptionsManager.php:1091
+msgid "All"
+msgstr "Tutto"
+
+#: ScuolasemplceContacts_OptionsManager.php:1101
+msgid "Name"
+msgstr "Nome"
+
+#: ScuolasemplceContacts_OptionsManager.php:1103
+msgid "Post Date"
+msgstr "Data sottoscrizione"
+
+#: ScuolasemplceContacts_OptionsManager.php:1104
+msgid "API ID"
+msgstr "ID Utente"
+
+#: ScuolasemplceContacts_Plugin.php:19
+msgid "Host"
+msgstr "Host"
+
+#: ScuolasemplceContacts_Plugin.php:20
+msgid "Username"
+msgstr "Username"
+
+#: ScuolasemplceContacts_Plugin.php:205
+msgid "ERROR : You need to activate your account."
+msgstr "ERRORE: Devi prima attivare il tuo account."
+
+#: ScuolasemplceContacts_Plugin.php:221
+msgid "Alert: Your Account Activated, Please Login here."
+msgstr "Il tuo account è stato attivato, Effettuare il login qua."
+
+#: ScuolasemplceContacts_Plugin.php:225
+msgid "Alert: Your account has been already activated!, Please Login here."
+msgstr ""
+"Attenzione: Il tupo account è già stato attiato, Effettuare il login qua."
+
+#: ScuolasemplceContacts_Plugin.php:229 ScuolasemplceContacts_Plugin.php:234
+msgid "Error: Invalid operation!"
+msgstr "Errore: Operazione non valida!"
+
+#: ScuolasemplceContacts_Plugin.php:391
+msgid "ATTENTION! Email already exist!!"
+msgstr "ATTENZIONE! L’Email inserita esiste già!!"
+
+#: ScuolasemplceContacts_Plugin.php:459
+msgid "Please click on following link to activate your account"
+msgstr "Si prega di cliccare nel link seguente per attivare il tuo account"
+
+#: ScuolasemplceContacts_Plugin.php:462
+msgid "Account Activation"
+msgstr "Attivazione account utente"
+
+#: ScuolasemplceContacts_Plugin.php:464
+msgid "We have sent you confirmation mail, pleases click on link in mail."
+msgstr ""
+"Ti abbiamo inviato un’email di conferma, cortesemente clicca nel link "
+"presente nella mail per attivare l’account."
+
+#: ScuolasemplceContacts_Plugin.php:487
+msgid " "
+msgstr ""
+
+#: ScuolasemplceContacts_Plugin.php:530
+msgid "This module it is not accessible from your current location"
+msgstr "Questo modulo non è accessibile dalla tua posizione corrente"
+
+#: ScuolasemplceContacts_Plugin.php:593
+msgid "Submit"
+msgstr "Invia"
+
+#: ScuolasemplceContacts_Plugin.php:664 ScuolasemplceContacts_Plugin.php:756
+msgid "View"
+msgstr "Visualizza"
+
+#: ScuolasemplceContacts_Plugin.php:675
+msgid "Edit"
+msgstr "Modifica"
+
+#: scuolasemplceContacts.php:30
+msgid ""
+"Error: plugin \"ScuolaSemplce Contacts\" requires a newer version of PHP to "
+"be running."
+msgstr ""
+"Errore: il plugin \"ScuolaSemplice Contacts\" richiede una versione più "
+"aggiornata dei PHP per essere eseguito."
+
+#: scuolasemplceContacts.php:31
+msgid "Minimal version of PHP required: "
+msgstr "Minima versione richiesta di PHP: "
+
+#: scuolasemplceContacts.php:33
+msgid "Your server's PHP version: "
+msgstr "La tua versione del PHP: "
+
+#~ msgid "Save Changes"
+#~ msgstr "Applica modifiche"
